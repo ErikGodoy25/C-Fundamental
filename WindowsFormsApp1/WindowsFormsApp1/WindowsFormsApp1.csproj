@@ -64,6 +64,12 @@
     <Compile Include="Form3.Designer.cs">
       <DependentUpon>Form3.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlunos.Designer.cs">
+      <DependentUpon>FrmAlunos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmArray.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form3.resx">
       <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlunos.resx">
+      <DependentUpon>FrmAlunos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmArray.resx">
       <DependentUpon>FrmArray.cs</DependentUpon>

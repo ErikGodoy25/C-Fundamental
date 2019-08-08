@@ -24,3 +24,4 @@ C:\C_Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pd
 C:\C_Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
 C:\C_Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmEnum.resources
 C:\C_Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmArray.resources
+C:\C_Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAlunos.resources
